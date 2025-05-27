@@ -91,6 +91,7 @@ Flowwow предлагает персонализированные подбор
 <p align="center">
   <img src="https://www.retail.ru/upload/medialibrary/f05/ocw7ppqsjcz1voufrcyixp1uhbo2qt3m/Screenshot_9.png" alt="Скриншот 1" width="300"/>
   <img src="https://i.c97.org/ai/540607/aux-1679215146-3.jpg" alt="Скриншот 2" width="300"/>
+  <img src="https://sun9-50.userapi.com/impg/XmznuzGwUJM5B3CtO42M2b0gBqhFdB3W_YfvDQ/0pdrz2qY1qQ.jpg?size=604x355&quality=95&sign=f75713cb7cc23b27539f4e3e618c394e&type=album" alt="Скриншот 3" width="300"/>
 </p>
 
 ---
